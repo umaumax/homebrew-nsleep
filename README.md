@@ -1,15 +1,15 @@
-# nsleep command
+# sleep command
 
-homebrew tap for nsleep command
+homebrew tap for sleep command
 
 [umaumax/sleep]( https://github.com/umaumax/sleep )
 
-This repository maintains the brew tap for "nsleep".
+This repository maintains the brew tap for "sleep".
 
 ## Installation
 
 ```
-$ brew tap umaumax/nsleep
-$ brew install nsleep
+$ brew tap umaumax/sleep
+$ brew install sleep
 ```
 
